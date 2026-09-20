@@ -8,34 +8,33 @@
 
 ## Tech Stack
 
-![Python](https://img.shields.io/badge/Python-14243B?style=for-the-badge&logo=python&logoColor=8EDFFF)
-![SQL](https://img.shields.io/badge/SQL-14243B?style=for-the-badge&logo=postgresql&logoColor=8EDFFF)
-![TypeScript](https://img.shields.io/badge/TypeScript-14243B?style=for-the-badge&logo=typescript&logoColor=8EDFFF)
-![JavaScript](https://img.shields.io/badge/JavaScript-14243B?style=for-the-badge&logo=javascript&logoColor=8EDFFF)
-![Java](https://img.shields.io/badge/Java-14243B?style=for-the-badge)
-![Kotlin](https://img.shields.io/badge/Kotlin-14243B?style=for-the-badge&logo=kotlin&logoColor=8EDFFF)
-![C++](https://img.shields.io/badge/C%2B%2B-14243B?style=for-the-badge&logo=cplusplus&logoColor=8EDFFF)
-![R](https://img.shields.io/badge/R-14243B?style=for-the-badge&logo=r&logoColor=8EDFFF)
-![HTML5](https://img.shields.io/badge/HTML5-14243B?style=for-the-badge&logo=html5&logoColor=8EDFFF)
-![CSS3](https://img.shields.io/badge/CSS3-14243B?style=for-the-badge)
-
-![React](https://img.shields.io/badge/React-183D59?style=for-the-badge&logo=react&logoColor=8EDFFF)
-![Next.js](https://img.shields.io/badge/Next.js-183D59?style=for-the-badge&logo=nextdotjs&logoColor=8EDFFF)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-183D59?style=for-the-badge&logo=tailwindcss&logoColor=8EDFFF)
-![Supabase](https://img.shields.io/badge/Supabase-183D59?style=for-the-badge&logo=supabase&logoColor=8EDFFF)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-183D59?style=for-the-badge&logo=postgresql&logoColor=8EDFFF)
-![Git](https://img.shields.io/badge/Git-183D59?style=for-the-badge&logo=git&logoColor=8EDFFF)
-![Vercel](https://img.shields.io/badge/Vercel-183D59?style=for-the-badge&logo=vercel&logoColor=8EDFFF)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ## Product & Design Tools
 
-![Figma](https://img.shields.io/badge/Figma-991B32?style=for-the-badge&logo=figma&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-991B32?style=for-the-badge&logo=notion&logoColor=white)
-![Amplitude](https://img.shields.io/badge/Amplitude-991B32?style=for-the-badge)
-![Mixpanel](https://img.shields.io/badge/Mixpanel-991B32?style=for-the-badge&logo=mixpanel&logoColor=white)
-![Google Analytics](https://img.shields.io/badge/Google_Analytics-991B32?style=for-the-badge&logo=googleanalytics&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-991B32?style=for-the-badge)
-![Power BI](https://img.shields.io/badge/Power_BI-991B32?style=for-the-badge)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Amplitude](https://img.shields.io/badge/Amplitude-005AF0?style=for-the-badge)
+![Mixpanel](https://img.shields.io/badge/Mixpanel-7856FF?style=for-the-badge&logo=mixpanel&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-1F77B4?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge)
 
 ## GitHub Stats
 
@@ -45,6 +44,6 @@
 
 Open to **Summer 2027 internships**, especially in **Product Management**.
 
-[![Website](https://img.shields.io/badge/Website-991B32?style=for-the-badge&logo=googlechrome&logoColor=white)](https://bhanusadhu.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-183D59?style=for-the-badge)](https://www.linkedin.com/in/bhanusadhu)
-[![Email](https://img.shields.io/badge/Email-14243B?style=for-the-badge&logo=gmail&logoColor=8EDFFF)](mailto:sadhubhanu07@gmail.com)
+[![Website](https://img.shields.io/badge/Website-881337?style=for-the-badge&logo=googlechrome&logoColor=white)](https://bhanusadhu.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/bhanusadhu)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sadhubhanu07@gmail.com)
