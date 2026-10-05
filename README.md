@@ -1,7 +1,7 @@
 ## Hey, I'm Bhanu! 👋🏽
 
 🎓 **Computer Science + Economics at the University of Illinois Urbana-Champaign**, with minors in Statistics & Advertising  
-💡 Interested in **Product Management, Software Development, & Business Strategy**  
+💡 Interested in **Product Management, Software, & Strategy**  
 🌱 Learning how to turn user needs into thoughtful, useful products  
 🃏 Built **[Cambio](https://cambio.bhanusadhu.com)**, a multiplayer browser card game  
 ⚡ Outside of tech: fragrances, new restaurants, Indian cinema, and badminton  
