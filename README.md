@@ -47,5 +47,3 @@ Open to **Summer 2027 internships**, especially in **Product Management**.
 [![Website](https://img.shields.io/badge/Website-881337?style=for-the-badge&logo=googlechrome&logoColor=white)](https://bhanusadhu.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGcgZmlsbD0id2hpdGUiPjxjaXJjbGUgY3g9IjQiIGN5PSI0IiByPSIyIi8%2BPHBhdGggZD0iTTIgOGg0djE0SDJ6bTcgMGg0djJjMy00IDktMyA5IDN2OWgtNHYtOGMwLTQtNS00LTUgMHY4SDl6Ii8%2BPC9nPjwvc3ZnPg==)](https://www.linkedin.com/in/bhanusadhu)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sadhubhanu07@gmail.com)
-
-![Profile views](https://komarev.com/ghpvc/?username=bhnsadhu&label=Profile+views&color=881337&style=for-the-badge)
