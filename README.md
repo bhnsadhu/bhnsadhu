@@ -3,7 +3,7 @@
 🎓 **Computer Science + Economics at the University of Illinois Urbana-Champaign**, with minors in Statistics & Advertising  
 💡 Interested in **Product, Software, & Strategy**  
 🌱 Learning how to turn user needs into thoughtful, useful products  
-🃏 Built **[Cambio](https://cambio.bhanusadhu.com)**, a multiplayer browser card game  
+🛠️ Working on product and software projects  
 ⚡ Outside of tech: fragrances, new restaurants, Indian cinema, and badminton  
 
 ## Tech Stack
