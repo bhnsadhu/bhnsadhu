@@ -1,7 +1,7 @@
 ## Hey, I'm Bhanu! 👋🏽
 
 🎓 **Computer Science + Economics at the University of Illinois Urbana-Champaign**, with minors in Statistics & Advertising  
-💡 Interested in **Product & Software**, equally  
+💡 Interested in **Product & Software**  
 🌱 Learning how to turn user needs into thoughtful products, and to build the software behind them  
 🛠️ Working on product and software projects  
 ⚡ Outside of tech: fragrances, new restaurants, Indian cinema, and badminton  
