@@ -6,6 +6,16 @@
 🛠️ Working on product and software projects  
 ⚡ Outside of tech: fragrances, new restaurants, Indian cinema, and badminton  
 
+## Projects
+
+| Project | What it is | Built with |
+| --- | --- | --- |
+| **[Cambio](https://cambio.bhanusadhu.com)** · [code](https://github.com/bhnsadhu/cambio) | Real-time multiplayer card game, with house bots at three levels that only see what a human could | Next.js, Supabase |
+| **[Accord](https://accord.bhanusadhu.com)** · [code](https://github.com/bhnsadhu/accord) | Fragrance discovery app with recommendations that show their evidence | Next.js, PostgreSQL |
+| ↳ **[ScentLens](https://bhnsadhu--scent-lens-web.us-east.modal.run)** · [code](https://github.com/bhnsadhu/scent-lens) | The model behind Accord's bottle scanner: names a fragrance from a photo, or says it isn't sure | Python, PyTorch |
+| **[Dishwise](https://dishwise.bhanusadhu.com)** · [code](https://github.com/bhnsadhu/dishwise) | Ranks every dish on a menu against your taste, with the reasons behind each score | Next.js, Tesseract.js |
+| **[Replay](https://replay.bhanusadhu.com)** · [code](https://github.com/bhnsadhu/replay) | Live guess-the-song game: one screen plays the music, every phone is a buzzer | React, WebSockets |
+
 ## Tech Stack
 
 <p>
@@ -30,7 +40,14 @@
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" width="12.95%">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" width="13.50%">
 <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" alt="Vitest" width="12.67%">
-<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" width="15.58%">
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" width="15.58%"><br>
+<img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" width="13.51%">
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" width="14.18%">
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" width="19.44%">
+<img src="https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black" alt="Drizzle" width="13.51%">
+<img src="https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=black" alt="Neon" width="10.86%">
+<img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" alt="Render" width="13.07%">
+<img src="https://img.shields.io/badge/Modal-7FEE64?style=for-the-badge&logo=modal&logoColor=black" alt="Modal" width="12.10%">
 </p>
 
 ## Product & Design Tools
