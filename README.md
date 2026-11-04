@@ -6,16 +6,6 @@
 🛠️ Working on product and software projects  
 ⚡ Outside of tech: fragrances, new restaurants, Indian cinema, and badminton  
 
-## Projects
-
-| Project | What it is | Built with |
-| --- | --- | --- |
-| **[Cambio](https://cambio.bhanusadhu.com)** · [code](https://github.com/bhnsadhu/cambio) | Real-time multiplayer card game, with house bots at three levels that only see what a human could | Next.js, Supabase |
-| **[Accord](https://accord.bhanusadhu.com)** · [code](https://github.com/bhnsadhu/accord) | Fragrance discovery app with recommendations that show their evidence | Next.js, PostgreSQL |
-| ↳ **[ScentLens](https://bhnsadhu--scent-lens-web.us-east.modal.run)** · [code](https://github.com/bhnsadhu/scent-lens) | The model behind Accord's bottle scanner: names a fragrance from a photo, or says it isn't sure | Python, PyTorch |
-| **[Dishwise](https://dishwise.bhanusadhu.com)** · [code](https://github.com/bhnsadhu/dishwise) | Ranks every dish on a menu against your taste, with the reasons behind each score | Next.js, Tesseract.js |
-| **[Replay](https://replay.bhanusadhu.com)** · [code](https://github.com/bhnsadhu/replay) | Live guess-the-song game: one screen plays the music, every phone is a buzzer | React, WebSockets |
-
 ## Tech Stack
 
 <p>
@@ -53,13 +43,19 @@
 ## Product & Design Tools
 
 <p>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" width="10.38%">
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" width="11.60%">
-<img src="https://img.shields.io/badge/Amplitude-005AF0?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZD0iTTIgMTYgOCA0bDcgMTcgNy0xNU0yIDEzaDIwIiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiLz48L3N2Zz4=" alt="Amplitude" width="14.42%">
-<img src="https://img.shields.io/badge/Mixpanel-7856FF?style=for-the-badge&logo=mixpanel&logoColor=white" alt="Mixpanel" width="13.44%">
-<img src="https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Google Analytics" width="21.17%">
-<img src="https://img.shields.io/badge/Tableau-1F77B4?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZD0iTTEyIDV2MTRNNSAxMmgxNE00IDJ2Nk0xIDVoNm0xMy0zdjZtLTMtM2g2TTQgMTZ2Nm0tMy0zaDZtMTMtM3Y2bS0zLTNoNiIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIi8%2BPC9zdmc%2B" alt="Tableau" width="12.34%">
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGcgZmlsbD0iYmxhY2siPjxyZWN0IHg9IjIiIHk9IjE0IiB3aWR0aD0iNSIgaGVpZ2h0PSI5IiByeD0iMSIvPjxyZWN0IHg9IjkiIHk9IjgiIHdpZHRoPSI1IiBoZWlnaHQ9IjE1IiByeD0iMSIvPjxyZWN0IHg9IjE2IiB5PSIxIiB3aWR0aD0iNSIgaGVpZ2h0PSIyMiIgcng9IjEiLz48L2c%2BPC9zdmc%2B" alt="Power BI" width="13.32%">
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" width="10.68%">
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" width="11.93%">
+<img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" alt="Confluence" width="15.97%">
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGcgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIj48cmVjdCB4PSIzIiB5PSIzIiB3aWR0aD0iMTgiIGhlaWdodD0iMTgiIHJ4PSIyIi8%2BPHBhdGggZD0iTTggOGw4IDhNMTYgOGwtOCA4Ii8%2BPC9nPjwvc3ZnPg==&logoColor=white" alt="Excel" width="10.31%">
+<img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Google Sheets" width="18.63%">
+<img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGcgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIj48cmVjdCB4PSIzIiB5PSIzIiB3aWR0aD0iMTgiIGhlaWdodD0iMTgiIHJ4PSIyIi8%2BPHBhdGggZD0iTTkgMTdWN2g0YTMgMyAwIDAgMSAwIDZIOSIvPjwvZz48L3N2Zz4=&logoColor=white" alt="PowerPoint" width="16.46%">
+<img src="https://img.shields.io/badge/Tableau-1F77B4?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZD0iTTEyIDV2MTRNNSAxMmgxNE00IDJ2Nk0xIDVoNm0xMy0zdjZtLTMtM2g2TTQgMTZ2Nm0tMy0zaDZtMTMtM3Y2bS0zLTNoNiIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIi8%2BPC9zdmc%2B" alt="Tableau" width="12.69%"><br>
+<img src="https://img.shields.io/badge/Amplitude-005AF0?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZD0iTTIgMTYgOCA0bDcgMTcgNy0xNU0yIDEzaDIwIiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiLz48L3N2Zz4=" alt="Amplitude" width="15.01%">
+<img src="https://img.shields.io/badge/Mixpanel-7856FF?style=for-the-badge&logo=mixpanel&logoColor=white" alt="Mixpanel" width="13.99%">
+<img src="https://img.shields.io/badge/PostHog-1D4AFF?style=for-the-badge&logo=posthog&logoColor=white" alt="PostHog" width="13.22%">
+<img src="https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Google Analytics" width="22.04%">
+<img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white" alt="Looker Studio" width="18.98%">
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGcgZmlsbD0iYmxhY2siPjxyZWN0IHg9IjIiIHk9IjE0IiB3aWR0aD0iNSIgaGVpZ2h0PSI5IiByeD0iMSIvPjxyZWN0IHg9IjkiIHk9IjgiIHdpZHRoPSI1IiBoZWlnaHQ9IjE1IiByeD0iMSIvPjxyZWN0IHg9IjE2IiB5PSIxIiB3aWR0aD0iNSIgaGVpZ2h0PSIyMiIgcng9IjEiLz48L2c%2BPC9zdmc%2B" alt="Power BI" width="13.86%">
 </p>
 
 ## GitHub Stats
