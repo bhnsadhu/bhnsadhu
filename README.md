@@ -1,8 +1,8 @@
 ## Hey, I'm Bhanu! 👋🏽
 
 🎓 **Computer Science + Economics at the University of Illinois Urbana-Champaign**, with minors in Statistics & Advertising  
-💡 Interested in **Product, Software, & Strategy**  
-🌱 Learning how to turn user needs into thoughtful, useful products  
+💡 Interested in **Product & Software**, equally  
+🌱 Learning how to turn user needs into thoughtful products, and to build the software behind them  
 🛠️ Working on product and software projects  
 ⚡ Outside of tech: fragrances, new restaurants, Indian cinema, and badminton  
 
@@ -64,7 +64,7 @@
 
 ## Let's Connect
 
-Open to **Summer 2027 internships**, especially in **Product Management**.
+Open to **Summer 2027 internships** in **Product Management** and **Software Engineering**.
 
 [![Website](https://img.shields.io/badge/Website-881337?style=for-the-badge&logo=googlechrome&logoColor=white)](https://bhanusadhu.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGcgZmlsbD0id2hpdGUiPjxjaXJjbGUgY3g9IjQiIGN5PSI0IiByPSIyIi8%2BPHBhdGggZD0iTTIgOGg0djE0SDJ6bTcgMGg0djJjMy00IDktMyA5IDN2OWgtNHYtOGMwLTQtNS00LTUgMHY4SDl6Ii8%2BPC9nPjwvc3ZnPg==)](https://www.linkedin.com/in/bhanusadhu)
