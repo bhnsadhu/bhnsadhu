@@ -60,7 +60,7 @@
 
 ## GitHub Activity
 
-![GitHub Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhnsadhu&theme=github_dark&bg_color=101B30&title_color=D31D36&icon_color=D31D36&chart_color=D31D36&border_color=D31D36&text_color=FFFFFF)
+![GitHub Profile Details](assets/profile-card.svg)
 
 ## Let's Connect
 
