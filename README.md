@@ -58,7 +58,7 @@
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGcgZmlsbD0iYmxhY2siPjxyZWN0IHg9IjIiIHk9IjE0IiB3aWR0aD0iNSIgaGVpZ2h0PSI5IiByeD0iMSIvPjxyZWN0IHg9IjkiIHk9IjgiIHdpZHRoPSI1IiBoZWlnaHQ9IjE1IiByeD0iMSIvPjxyZWN0IHg9IjE2IiB5PSIxIiB3aWR0aD0iNSIgaGVpZ2h0PSIyMiIgcng9IjEiLz48L2c%2BPC9zdmc%2B" alt="Power BI" width="13.86%">
 </p>
 
-## GitHub Stats
+## GitHub Activity
 
 ![GitHub Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhnsadhu&theme=github_dark&bg_color=101B30&title_color=D31D36&icon_color=D31D36&chart_color=D31D36&border_color=D31D36&text_color=FFFFFF)
 
