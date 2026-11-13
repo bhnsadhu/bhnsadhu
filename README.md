@@ -60,7 +60,7 @@
 
 ## GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=bhnsadhu&hide_border=true&background=101B30&ring=EF3340&fire=EF3340&currStreakNum=F0F9FF&sideNums=8EDFFF&currStreakLabel=FF6575&sideLabels=8EDFFF&dates=A9BCD0&stroke=294563)
+![GitHub Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhnsadhu&theme=github_dark&bg_color=101B30&border_color=101B30&title_color=FF6575&text_color=8EDFFF&icon_color=EF3340&chart_color=EF3340)
 
 ## Let's Connect
 
