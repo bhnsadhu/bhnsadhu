@@ -60,7 +60,7 @@
 
 ## GitHub Stats
 
-![GitHub Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhnsadhu&theme=github_dark&bg_color=101B30&border_color=101B30&title_color=FF6575&text_color=8EDFFF&icon_color=EF3340&chart_color=EF3340)
+![GitHub Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhnsadhu&theme=github_dark&bg_color=101B30&title_color=D31D36&icon_color=D31D36&chart_color=D31D36&border_color=D31D36&text_color=FFFFFF)
 
 ## Let's Connect
 
